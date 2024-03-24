@@ -5,7 +5,7 @@
 </div>
 
 <div style="text-align:center;">
-  <img src="https://github.com/outshiningthateskimo/Presentation-BTI-2021/assets/116450427/0e1cc487-5ae3-4ff7-98b6-3e10021b5109.png" alt="Presentation-BTI-mentoring" style="width: 50%;">
+  <img src="https://github.com/outshiningthateskimo/Presentation-BTI-2021/assets/116450427/0e1cc487-5ae3-4ff7-98b6-3e10021b5109.png" alt="Presentation-BTI-mentoring" style="width: 50%">
 </div>
 
 ## Overview
