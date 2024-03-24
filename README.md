@@ -1,7 +1,7 @@
 # Presentation-BTI-2021
 ![Presentation-BTI-mentoring](https://github.com/outshiningthateskimo/Presentation-BTI-2021/assets/116450427/0e1cc487-5ae3-4ff7-98b6-3e10021b5109.png)
 
-![Presentation-BTI-mentoring](https://github.com/outshiningthateskimo/Presentation-BTI-2021/assets/116450427/0e1cc487-5ae3-4ff7-98b6-3e10021b5109.png?raw=true&s=200)
+<img src="https://github.com/outshiningthateskimo/Presentation-BTI-2021/assets/116450427/0e1cc487-5ae3-4ff7-98b6-3e10021b5109.png" alt="Presentation-BTI-mentoring" style="width:200px;height:auto;">
 
 
 ## Overview
