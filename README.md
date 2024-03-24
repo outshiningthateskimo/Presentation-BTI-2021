@@ -4,7 +4,7 @@ I created this PowerPoint presentation to serve as a comprehensive learning reso
 It is specifically designed for students in Year 1 to ease their preparation for the Information Technology Basics class.
 
 ## Content
-The presentation consists of 4 practical exercises: the <u>requirement</u> along with the <u>step-by-step solution</u> for each of them.
+The presentation consists of 4 practical exercises: the __requirement__ along with the __step-by-step solution__ for each of them.
 
 
 It covers the following topics:
@@ -14,10 +14,10 @@ It covers the following topics:
 - Disjunctive  Normal Form
 
 ## How to visualize
-To access this presentation, select the `Presentation-BTI-mentoring.pptx` file and download it from there.
+To access this presentation, select the `Presentation-BTI-mentoring.pptx` file and download it from there.<br>
 This is an animated presentation. Therefore, for the best experience, it is recommended that you use the Slide Show feature from PowerPoint.
 
 
 ## Conclusions
-Very comprehensive learning material. Feel free to use it to improve your understanding in Information Technology Basics.<br>
+Very comprehensive learning material. Feel free to use it to improve your understanding in Information Technology Basics.<br><br>
 Good luck!
