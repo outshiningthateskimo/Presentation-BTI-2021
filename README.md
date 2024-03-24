@@ -5,23 +5,11 @@
 </div>
 
 <div style="text-align:center;">
-  <style>
-    @media (min-width: 768px) {
-      img {
-        width: 50%;
-        max-width: 400px;
-      }
-    }
-
-    @media (max-width: 767px) {
-      img {
-        width: 100%;
-      }
-    }
-  </style>
-
   <img src="https://github.com/outshiningthateskimo/Presentation-BTI-2021/assets/116450427/0e1cc487-5ae3-4ff7-98b6-3e10021b5109.png" alt="Presentation-BTI-mentoring" style="height: auto; display: block; margin: auto;">
 </div>
+
+<link rel="stylesheet" type="text/css" href="path/to/styles.css">
+
 
 ## Overview
 
