@@ -1,6 +1,6 @@
 # Presentation-BTI-2021
 ## Overview
-I created this PowerPoint presentation to serve as a comprehensive learning resource. 
+I created this PowerPoint presentation to serve as a comprehensive learning resource. <br>
 It is specifically designed for students in Year 1 to ease their preparation for the Information Technology Basics class.
 
 ## Content
@@ -19,5 +19,5 @@ This is an animated presentation. Therefore, for the best experience, it is reco
 
 
 ## Conclusions
-Very comprehensive learning material. Feel free to use it to improve your understanding in Information Technology Basics.
+Very comprehensive learning material. Feel free to use it to improve your understanding in Information Technology Basics.<br>
 Good luck!
