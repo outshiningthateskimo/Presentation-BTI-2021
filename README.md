@@ -1,10 +1,13 @@
 # Presentation-BTI-2021
+
+
 ## Overview
 I created this PowerPoint presentation to serve as a comprehensive learning resource. <br>
 It is specifically designed for students in Year 1 to ease their preparation for the Information Technology Basics class.
 
+
 ## Content
-The presentation consists of 4 practical exercises: the __requirement__ along with the __step-by-step solution__ for each of them.
+The presentation consists of 4 practical exercises: the **requirement** along with the **step-by-step solution** for each of them.
 
 
 It covers the following topics:
@@ -12,6 +15,7 @@ It covers the following topics:
 - Karnaugh Map
 - Conjunctive Normal Form
 - Disjunctive  Normal Form
+
 
 ## How to visualize
 To access this presentation, select the `Presentation-BTI-mentoring.pptx` file and download it from there.<br>
