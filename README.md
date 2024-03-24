@@ -2,11 +2,13 @@
 
 
 ## Overview
+
 I created this PowerPoint presentation to serve as a comprehensive learning resource. <br>
 It is specifically designed for students in Year 1 to ease their preparation for the Information Technology Basics class.
 
 
 ## Content
+
 The presentation consists of 4 practical exercises: the **requirement** along with the **step-by-step solution** for each of them.
 
 
@@ -18,6 +20,7 @@ It covers the following topics:
 
 
 ## How to visualize
+
 To access this presentation, select the `Presentation-BTI-mentoring.pptx` file and download it from there.<br>
 This is an animated presentation. Therefore, for the best experience, it is recommended that you use the Slide Show feature from PowerPoint.
 
